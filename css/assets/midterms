@@ -1,0 +1,7 @@
+echo "# midterm-practical-LUCIO" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/nxlj0415/midterm-practical-LUCIO.git
+git push -u origin main
